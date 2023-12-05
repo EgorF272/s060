@@ -52,7 +52,7 @@ window.addEventListener("DOMContentLoaded", function(){
           }
       }
   
-      totalPriceSpan.textContent = total;
+      totalPriceSpan.textContent = total+" руб.";
   }
   
  
